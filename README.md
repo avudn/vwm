@@ -166,6 +166,10 @@ intentional.
   visible. Useful for single-task focus (`Super+Space` to switch
   into it, `Super+J`/`Super+K` to cycle which window is on top).
 
+## Obligatory Screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb770391-f75d-4482-90cb-ab6a4eafb804" />
+
+
 ## Limitations
 
 - Single monitor only — no Xinerama/RandR multi-head layout
