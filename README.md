@@ -174,7 +174,3 @@ intentional.
 
 - Single monitor only — no Xinerama/RandR multi-head layout
 - ICCCM `WM_NORMAL_HINTS` (min/max/aspect size hints) are not enforced
-- No drag-to-reorder for tiled windows (only floating windows are
-  mouse-movable; use `Super+J/K` and `Super+Shift+Return` to reorder
-  tiled windows)
-
