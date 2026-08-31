@@ -11,10 +11,6 @@ no runtime parser. You edit `config.h` and recompile.
 
 ## Philosophy
 
-```
-X server → Void Window Manager → applications
-```
-
 Void WM contributes almost no visual presence and consumes as few
 resources as reasonably possible:
 
