@@ -114,12 +114,6 @@ your primary session on the first VT completely untouched.
 | `Super + drag` (Button3)   | Resize a window with the mouse (auto-floats it)        |
 | Left click on a window     | Focus it                                              |
 
-Note: this table reflects the keybindings actually shipped in this
-repo's `config.h`, which differ slightly from vanilla dwm defaults —
-close is `Super+Q` here (not `Super+Shift+C`), quit is
-`Super+Shift+Delete` (not `Super+Shift+Q`), and master-count is
-adjusted with `Super+I` / `Super+U`.
-
 `Super+D` launches rofi via:
 
 ```c
