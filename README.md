@@ -157,7 +157,7 @@ intentional.
   into it, `Super+J`/`Super+K` to cycle which window is on top).
 
 ## Obligatory Screenshot
-<img width="1920" height="1080" alt="image" src="./image.png" />
+<img width="1920" height="1080" alt="image" src="./background.png" />
 
 
 ## Limitations
